@@ -8,6 +8,10 @@ Lab 2: Real Life Examples
 
 https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example
 
+Install libs:
+
+pip install pandas
+
 Lab 3: Graphs repo:
 
 https://github.com/PacktPublishing/Network-Science-with-Python-and-NetworkX-Quick-Start-Guide
