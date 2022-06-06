@@ -10,7 +10,8 @@ https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example
 
 Install libs:
 
-pip install pandas
+`pip install pandas`  
+`pip install scipy`  
 
 Lab 3: Graphs repo:
 
