@@ -1,6 +1,10 @@
 Welcome to Digital Lab | Python
 
-LAB 2: Graphs repo:
+Lab 1: Python Intro
+
+https://github.com/ine-rmotr-curriculum/ds-content-python-under-10-minutes
+
+Lab 3: Graphs repo:
 
 https://github.com/PacktPublishing/Network-Science-with-Python-and-NetworkX-Quick-Start-Guide
 
