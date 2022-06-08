@@ -43,7 +43,7 @@ b. Printing some attributes:
 
 Bosnus track Chapter 6:
 
-Transitivity: https://transportgeography.org/contents/methods/graph-theory-measures-indices/transitivity-graph/
+Transitivity: https://transportgeography.org/contents/methods/graph-theory-measures-indices/transitivity-graph/  
 Density: https://www.baeldung.com/cs/graph-density
 
 
