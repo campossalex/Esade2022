@@ -1,7 +1,7 @@
 Welcome to Digital Lab | Python
 
 Access: https://login.cdpworkshops.cloudera.com/auth/realms/marketing-workshop2/protocol/saml/clients/cdp-sso  
-Users: 
+Users:  
 MAL: user001  
 DBE: user002  
 ABU: user003  
