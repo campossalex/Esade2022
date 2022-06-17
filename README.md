@@ -1,28 +1,4 @@
-Welcome to Digital Lab | Python
-
-Access: https://login.cdpworkshops.cloudera.com/auth/realms/marketing-workshop2/protocol/saml/clients/cdp-sso  
-Users:  
-MAL: user001  
-DBE: user002  
-ABU: user003  
-SBS: user004  
-RF: user005  
-LGP: user006  
-MIE: user007  
-PKU: user008  
-JLM: user009  
-AMY: user010  
-FAP: user011  
-APG: user012  
-APG: user013  
-MRS: user014  
-CRF: user015  
-RRR: user016  
-VRG: user017  
-GSC: user018  
-YUC: user019  
-AV: user020  
-Password: G0yvxvdms5srhyKF  
+Welcome to Digital Lab | Python  
 
 Lab 1: Python Intro
 
